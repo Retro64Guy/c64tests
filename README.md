@@ -1,2 +1,2 @@
 # c64tests
-Thsi repository contains only test soures for learning purposes.
+This repository contains only test soures for learning purposes.

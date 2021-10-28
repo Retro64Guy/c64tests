@@ -1,5 +1,7 @@
 
-* = $1000
+BasicUpstart2(SHOWCHARSET)
+
+*=$0820
 
 SHOWCHARSET:
     ldy #$00

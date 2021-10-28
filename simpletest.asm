@@ -1,9 +1,7 @@
 
-* = $0801
+* = $1000
 
-BasicUpStart2(SHOWCHARSET)
-
-SHOWCHARSET
+SHOWCHARSET:
     ldy #$00
 @LOOPER:
     tya

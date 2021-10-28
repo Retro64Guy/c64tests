@@ -8,6 +8,8 @@ SHOWCHARSET:
 @LOOPER:
     tya
     sta $0400,y
+    sta $0400 + $0118,y
+    sta $0518 + $0118,y
     clc
     adc #$07
     and #$0f

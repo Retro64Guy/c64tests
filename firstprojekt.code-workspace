@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"kickass-c64.c64DebuggerBin": "C:\\C64\\Tools\\KickAssembler\\C64Debugger\\C64Debugger.exe",
+		"kickass-c64.viceBin": "F:\\CBMEmu\\WinVICE-3.1-x86\\x64sc.exe",
+		"kickass-c64.kickAssJar": "C:\\C64\\Tools\\KickAssembler\\KickAss.jar",
+		"kickass-c64.javaBin": "C:\\Program Files\\Java\\jre1.8.0_311\\bin\\java.exe",
+		"kickass-c64.useC64Debugger": false
+	}
+}

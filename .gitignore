@@ -1,3 +1,6 @@
 bin/*
 workspace*
-.gitignore
+*.dbg
+*.sym
+*.vs
+.source.txt

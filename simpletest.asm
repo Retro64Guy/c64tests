@@ -1,5 +1,6 @@
+BasicUpstart2(SHOWCHARSET)
 
-* = $033C
+* = $0820
 
 SHOWCHARSET:
     ldy #$00
@@ -15,4 +16,3 @@ SHOWCHARSET:
     iny
     bne @LOOPER
     rts
-    

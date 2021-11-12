@@ -4,8 +4,8 @@ BasicUpstart2(SHOWCHARSET)
 
 SHOWCHARSET:
     ldy #$00
-    sta $d021
-@LOOPER:
+    sty $d021
+!LOOPER:
     tya
     sta $0400,y
     sta $0518,y
@@ -20,5 +20,5 @@ SHOWCHARSET:
     sta $D918,y
     sta $DA30,y
     iny
-    bne @LOOPER
+    bne !LOOPER-
     rts

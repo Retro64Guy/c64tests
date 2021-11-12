@@ -1,7 +1,5 @@
 
-// BasicUpstart2(SHOWCHARSET)
-
-*=$033C
+* = $033C
 
 SHOWCHARSET:
     ldy #$00
